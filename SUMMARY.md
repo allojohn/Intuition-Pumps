@@ -5,7 +5,7 @@
  * [1 making mistakes](1-making-mistakes.md)
  * [2-by parody of reasoning reductio and absurdum](2-by-parody-of-reasoningusing-reductio-ad-absurdum.md)
  * [3 apoports rules](3-rapoports-rules.md)
- * [4-sturgeons law4 sturgeons law](4-sturgeon's-law.md)
+ * [4-sturgeons law](4-sturgeon's-law.md)
  * [5-OCCAM'S RAZOR](5-occam's-razor.md)
  * [6-occam's broom](6-occam's-broom.md)
  * [7-USING LAY AUDIENCE AS DECOYS](7-using-lay-audience-as-decoys.md)
@@ -28,8 +28,7 @@
  * [20-A CASCADE OF HMUNCULI](20-a-cascade-of-hmunculi.md)
  * [21-THE SORTA OPERATOR](21-the-sorta-operator.md)
  * [22-WONDER TISSUE](22-wonder-tissue.md)
- * [23-TRAPPED IN THE ROBOT CONTROL 
-ROOM](23-trapped-in-the-robot-control-room.md)
+ * [23-TRAPPED IN THE ROBOT CONTROL ROOM](23-trapped-in-the-robot-control-room.md)
 
 
 * [Chapter 3-An Interlude About Computers](chapter3.md)
