@@ -27,16 +27,30 @@
  * [19-THE PERSONAL/SUB-PERSONAL DISTINCTION](the-personalsub-personal-distinction.md)
  * [20-A CASCADE OF HMUNCULI](20-a-cascade-of-hmunculi.md)
  * [21-THE SORTA OPERATOR](21-the-sorta-operator.md)
- * [21-TRAPPED IN THE ROBOT CONTROL 
-ROOM](21-trapped-in-the-robot-control-room.md)
  * [22-WONDER TISSUE](22-wonder-tissue.md)
- 
- 
- 
- * [Chapter 3-An Interlude About Computers](chapter3.md)
+ * [23-TRAPPED IN THE ROBOT CONTROL 
+ROOM](23-trapped-in-the-robot-control-room.md)
+
+
+* [Chapter 3-An Interlude About Computers](chapter3.md)
  * [24-The seven secrets of computer power revealed](24-the-seven-secrets-of-computer-power-revealed.md)
  * [25-Virtual Machine](25-virtual-machine.md)
- * [26-Algorithms]()
+ * [26-Algorithms](26-algorithms.md)
  * [27-automating the elevator](27-automating-the-elevator.md)
- * []
+ 
+ 
+* [Chapter 4-more tools about meaning](chapter4.md)
+  * [28-a-thing-about-readheads](28-a-thing-about-readheads.md) 
+  * [29-the-wandering-two-bitser,twin-earth,and-the-giant-robot](29-the-wandering-two-bitser,twin-earth,and-the-giant-robot.md)
+  * [30-radical-translation-and-a-quinian-crossword-puzzle](30-radical-translation-and-a-quinian-crossword-puzzle.md)
+  * [31-semantic-engines-and-syntactic-engines](31-semantic-engines-and-syntactic-engines.md)
+  * [32-swampman meets a cow-shark](32-swampman meets a cow-shark.md)
+  * [33-two black boxes](33-two black boxes.md)
+  
+  
+* [chapter 5 -tools for thinking about evolution](chapter 5 -tools for thinking about evolution)
+  * [34.universal acid](34.universal acid.md)
+  * [35-the library of mendel-vast and vanishing](35-the library of mendel-vast and vanishing.md)
+  * [36.genes as words or as subroutines](36.genes as words or as subroutines.md)
+  
 
