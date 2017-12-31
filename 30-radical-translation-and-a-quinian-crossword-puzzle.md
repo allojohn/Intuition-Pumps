@@ -6,7 +6,7 @@
 *  Ther would be **no deeper facts** to settle which was "right"
 
 ### probablity game,no deeper facts
-Quin's announcement is  startling:
+Quine's announcement is  startling:
 
 > When two equally good functional interpretations clash there are no deeper facts that could settle the matter.
 
