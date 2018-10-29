@@ -48,8 +48,8 @@
   
   
 * [Chapter 5 -Tools for Thinking About Evolution](Chapter 5 -Tools for Thinking About Evolution)
-  * [34- Universal Acid](34.Universal Acid.md)
-  * [35- The Library of Mendel-vast and Vanishing](35-the library of mendel-vast and vanishingmd)
+  * [34- Universal Acid](34-universal acid.md)
+  * [35- The Library of Mendel-vast and Vanishing](35-the library of mendel-vast and vanishing.md)
   * [36- Genes as Words or as Subroutines](36-genes as words or as subroutines.md)
   * [37- The Tree of Life](37-The-Tree-of-Life.md)
   * [38- Cranes and Skyhooks, Lifting in Design Space](38-cranes-and-skyhooks,-Lifting-in-design-space.md)
